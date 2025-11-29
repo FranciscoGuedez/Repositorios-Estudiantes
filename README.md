@@ -1,4 +1,9 @@
 # Repositorios de los Grupos de Microprocesadores
+![Versión](https://img.shields.io/github/file/FranciscoGuedez/Repositorios-Estudiantes/version/__version__.py?label=Versión&color=blue&style=flat-square)
+![Markdown](https://img.shields.io/badge/Formato-Markdown-informational?style=flat-square)
+![Python](https://img.shields.io/badge/Hecho%20con-Python-blue?logo=python&logoColor=white&style=flat-square)
+![Tamaño](https://img.shields.io/github/repo-size/FranciscoGuedez/Repositorios-Estudiantes?style=flat-square)
+![Typing](https://img.shields.io/badge/Typing-Strict-green?style=flat-square)
 
 Este repositorio almacena la información de los estudiantes de la sección, para localizar de forma más rápida y eficiente sus repositorios de trabajo.
 
